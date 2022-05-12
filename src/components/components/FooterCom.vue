@@ -2,7 +2,7 @@
     <footer class="mdui-m-t-5" id="footer">
         <div class="mdui-p-a-5 mdui-typo mdui-container">
             <div class="mdui-col mdui-text">
-                <p><span id="Copyright">Copyright ©&nbsp;2022&nbsp;All rights reserved. </span><a href="https://github.com/nuanxinqing123/QLTools"><st>宝藏插件库</st></a></p>
+                <p><span id="Copyright">Copyright ©&nbsp;2022&nbsp;All rights reserved. </span><a href="https://github.com/nuanxinqing123/PluginLibrary"><st>宝藏插件库</st></a></p>
                 <p>好看简约的插件集合库，给您带来快速方便的下载体验！</p>
             </div>
         </div>
